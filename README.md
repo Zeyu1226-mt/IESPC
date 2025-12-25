@@ -1,2 +1,2 @@
 # IESPC
-Injecting Entity-Centric Spatio-Temporal Positional Relation into LLM for Identity-Aware Basketball Video Captioning
+This paper is the extended work of our preliminary work[ICCV2025: LLM-IAVC](https://github.com/Zeyu1226-mt/LLM-IAVC). 
